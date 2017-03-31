@@ -13,3 +13,5 @@ To use:
 	3) hit F5 to build and run
   
 The files are a disorganized mess because I originally programmed it in Mac OSX and had to quickly port the project due to a deadline. Not pretty but works!
+
+Video: https://www.youtube.com/watch?v=q4OthOZs5fY
